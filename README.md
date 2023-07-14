@@ -34,6 +34,7 @@ The frontend is created with Streamlit and has a simple interface with a text in
 Please make sure that `wkhtmltopdf` is installed on your system and its path is correctly specified in the `frontend.py` file.
 Product Roadmap 🚀
 
+- [ ] Rebuilding the core functionalities using web technologies in strict Vanilla JavaScript and FastAPI, to optimize performance. 🛠️
 - [ ] Support saving and uploading various file formats (Word, Excel, PDF, ePub, Powerpoint, etc.) on demand 📄
 - [ ] Integrate Whisperer API (OpenAI) for text-to-speech feature with accessibility options (pitch, speed, character) 🔊
 - [ ] Offer multiple font styles and sizes 🖋️
