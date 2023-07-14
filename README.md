@@ -4,7 +4,7 @@
 
 What Problem does it solve?
 
-As ADHD person, I suffer from shifting focus especially when reading long content because of ADHD causes executive dysfunction so we easily distracted, but we can't find easy or none commercial accessibility solutions to enable us to have immersive reading experience to enhance our reading flow, which makes us always anxious and fall into procrastination. -@ahmed**benaw
+As ADHD person, I suffer from shifting focus especially when reading long content because of ADHD causes executive dysfunction so we easily distracted, but we can't find easy or none commercial accessibility solutions to enable us to have immersive reading experience to enhance our reading flow, which makes us always anxious and fall into procrastination. -**@ahmed**benaw
 
 **Th**e **Id**ea **an**d **functio**nality **anal**ysis **con**fu **b**y **@ahmed**benaw, **Th**e **Prod**uct **Mana**ger **wh**o **anal**yzed **th**e **met**hod **an**d **tes**ted **i**t **usi**ng **HTM**L, **CS**S, **an**d **Vani**lla **JavaSc**ript. **Th**ey **@Ahmadk**haled11 **to**ok **ov**er **th**e **proj**ect **t**o **cre**ate **a** **sta**ble **vers**ion **o**f **Open**|Bionic **Co**re **t**o **b**e **a**n **open-s**ource **re**po **fo**r **th**e **accessi**bility **feat**ure **aim**ed **a**t **peo**ple **wi**th **ADH**D. **Th**e **Prod**uct **Mana**ger **(AD**HD **survi**vor) **i**s **exci**ted **t**o **rele**ase **Open**|Bionicc **Co**re **an**d **beli**eves **i**t **wi**ll **b**e **a** **valu**able **to**ol **fo**r **peo**ple **wi**th **ADH**D. **Th**ey **ho**pe **th**is **wi**ll **he**lp **impr**ove **th**e **liv**es **o**f **peo**ple **wi**th **AD**HD **an**d **all**ow **th**em **t**o **lea**rn, **gro**w, **an**d **thri**ve. 
 
