@@ -32,16 +32,17 @@ The frontend is created with Streamlit and has a simple interface with a text in
 - Pillow
 
 Please make sure that `wkhtmltopdf` is installed on your system and its path is correctly specified in the `frontend.py` file.
-
 Product Roadmap 🚀
-[ ] Support saving and uploading various file formats (Word, Excel, PDF, ePub, Powerpoint, etc.) on demand 📄
-[ ] Integrate Whisperer API (OpenAI) for text-to-speech feature with accessibility options (pitch, speed, character) 🔊
-[ ] Offer multiple font styles and sizes 🖋️
-[ ] Enable dark mode and letter fixation options 🌙
-[ ] Use OpenAI to tokenize text and control saccade (manual and automatic) 🧠
-[ ] Develop plugins for Kindle, Chromium, Google Drive, Microsoft 365 🔌
-[ ] Add speed reading feature with Whisperer integration 🚀
-[ ] Launch Divergent Readers Annual Challenge to motivate users to set and achieve reading goals using our app metrics 🏆
+
+- [ ] Support saving and uploading various file formats (Word, Excel, PDF, ePub, Powerpoint, etc.) on demand 📄
+- [ ] Integrate Whisperer API (OpenAI) for text-to-speech feature with accessibility options (pitch, speed, character) 🔊
+- [ ] Offer multiple font styles and sizes 🖋️
+- [ ] Enable dark mode and letter fixation options 🌙
+- [ ] Use OpenAI to tokenize text and control saccade (manual and automatic) 🧠
+- [ ] Develop plugins for Kindle, Chromium, Google Drive, Microsoft 365 🔌
+- [ ] Add speed reading feature with Whisperer integration 🚀
+- [ ] Launch Divergent Readers Annual Challenge to motivate users to set and achieve reading goals using our app metrics 🏆
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
