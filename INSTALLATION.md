@@ -27,11 +27,19 @@ mix --version
 
 ## Prerequisites
 
-Before starting, ensure you have the following installed:
-1. **Node.js**: [Download v20+](https://nodejs.org/)
-2. **Elixir**: [Download v1.15+](https://elixir-lang.org/install.html) (Optional for frontend-only dev)
 3. **PostgreSQL**: [Download v15+](https://www.postgresql.org/download/) (Optional for frontend-only dev)
 4. **Git**: [Download](https://git-scm.com/)
+
+## ⚡ Automated Setup (Windows)
+
+Run the included setup script to install dependencies automatically:
+
+```powershell
+.\setup.ps1
+```
+
+Or double-click `setup.bat`.
+
 
 ---
 
