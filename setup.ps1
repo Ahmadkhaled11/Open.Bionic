@@ -69,6 +69,10 @@ if (Get-Command mix -ErrorAction SilentlyContinue) {
         }
     }
 }
+else {
+    Write-Host "`n⚠️  Backend setup SKIPPED (Elixir not found)." -ForegroundColor Yellow
+    Write-Host "   The Frontend will run in 'Mock Mode' automatically." -ForegroundColor Gray
+}
 
 Write-Host "`n🎉 Setup Complete!" -ForegroundColor Green
 Write-Host "To start the app:"
